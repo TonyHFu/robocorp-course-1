@@ -1,0 +1,778 @@
+{"level":30,"time":"2022-05-11T22:32:20.804Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Listening on 52095"}
+{"level":30,"time":"2022-05-11T22:32:20.905Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-11T22:32:20.905Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2022-05-11T22:32:21.244Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Changed active context"}
+{"level":30,"time":"2022-05-11T22:32:21.419Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-11T22:32:21.419Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Changed active page"}
+{"level":30,"time":"2022-05-11T22:32:22.186Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-11T22:32:22.195Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.195Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2022-05-11T22:32:22.260Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.264Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.265Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2022-05-11T22:32:22.322Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.326Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:22.326Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Log in in page."}
+{"level":30,"time":"2022-05-11T22:32:22.367Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:22.616Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.616Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:22.640Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.643Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.643Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:22.657Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.659Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.660Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:22.678Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.682Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:22.682Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:22.874Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:22.880Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:22.880Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:22.940Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:22.944Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.944Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:22.971Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.974Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.974Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:22.985Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.988Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:22.988Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:23.005Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.011Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.011Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:23.123Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.127Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.127Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:23.210Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.216Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.216Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.235Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.240Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.240Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.255Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.259Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.260Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:23.272Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.281Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.281Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:23.390Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.397Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.397Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:23.474Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.477Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.477Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.499Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.501Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.501Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.512Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.514Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.514Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:23.529Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.533Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.534Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:23.632Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.634Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.634Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:23.707Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.711Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.711Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.731Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.731Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.741Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.742Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.742Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:23.753Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:23.863Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:23.865Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.865Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:23.943Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:23.947Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.947Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.969Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.972Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.972Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:23.989Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.991Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:23.991Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:24.002Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.004Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.004Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:24.119Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.122Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.122Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:24.228Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.232Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.232Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.252Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.253Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.253Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.266Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.267Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.268Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:24.285Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.287Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.288Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:24.387Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.394Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.395Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:24.499Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.503Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.503Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.525Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.527Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.527Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.536Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.537Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.537Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:24.549Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.552Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.552Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:24.632Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.636Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.636Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:24.729Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.733Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.733Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.786Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.797Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.797Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:24.824Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.826Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.826Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:24.838Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:24.840Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.840Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:24.928Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:24.931Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:24.931Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:25.016Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.017Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.017Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.032Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.035Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.035Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.047Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.049Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.049Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:25.057Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.059Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.059Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:25.145Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.147Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.147Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:25.222Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.223Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.223Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.245Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.246Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.246Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.253Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.254Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.254Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:25.265Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.266Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.266Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:25.362Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.363Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.363Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:25.444Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.446Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.446Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.467Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.468Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.468Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.480Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.481Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.481Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:25.489Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.490Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.490Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:25.587Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.589Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.589Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:25.682Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.688Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.688Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.729Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.740Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.743Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.743Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:25.754Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:25.864Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:25.866Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.866Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:25.944Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:25.949Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.949Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.967Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.969Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.969Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:25.985Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.986Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:25.986Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:26.001Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.002Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.002Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:26.113Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.115Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.115Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:26.201Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.203Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.203Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.225Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.227Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.227Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.235Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.236Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.236Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:26.245Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.246Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.247Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:26.327Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.328Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.328Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:26.413Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.415Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.415Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.432Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.433Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.433Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.443Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.445Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.445Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:26.453Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.454Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.454Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:26.528Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.529Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.529Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:26.613Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.614Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.614Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.633Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.634Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.634Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.642Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.643Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.643Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:26.651Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.652Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.652Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:26.740Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.741Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.741Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:26.821Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.822Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.822Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.842Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.844Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.844Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:26.851Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.852Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.852Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:26.861Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:26.863Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.863Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:26.955Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:26.957Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:26.957Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:27.044Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.046Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.046Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.063Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.064Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.064Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.073Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.075Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.075Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:27.083Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.084Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.085Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:27.184Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.185Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.185Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:27.262Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.263Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.263Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.281Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.282Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.282Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.291Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.291Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.292Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:27.301Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.302Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.302Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:27.390Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.391Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.392Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:27.478Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.480Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.480Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.517Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.527Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.527Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.537Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.539Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.539Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:27.552Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.553Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.554Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:27.640Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.641Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.641Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:27.723Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.725Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.725Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.750Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.751Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.751Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.761Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.762Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.762Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:27.772Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.774Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.774Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:27.849Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.850Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.850Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:27.920Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:27.921Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.921Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.945Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.946Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.946Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:27.954Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.955Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.955Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:27.965Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:27.966Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:27.966Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:28.039Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.040Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.040Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:28.122Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.124Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.124Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.148Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.165Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.165Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.176Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.184Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.184Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:28.192Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.203Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.203Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:28.282Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.283Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.283Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:28.353Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.355Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.355Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.382Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.383Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.383Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.390Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.391Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.391Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:28.401Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.402Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.402Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:28.482Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.483Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.483Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:28.554Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.555Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.555Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.581Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.582Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.582Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.589Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.590Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.590Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:28.600Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.601Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.601Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:28.686Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.687Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.687Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:28.753Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.779Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.780Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.780Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:28.789Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.790Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.790Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:28.802Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.803Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.803Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:28.885Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:28.886Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.886Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:28.973Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:28.988Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:28.988Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.011Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.012Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.012Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.030Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.031Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.031Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:29.045Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.046Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.047Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:29.155Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.157Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.157Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:29.245Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.246Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.246Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.268Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.269Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.269Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.282Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.283Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.283Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:29.294Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.295Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.295Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:29.403Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.405Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.405Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:29.491Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.493Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.494Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.548Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.559Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.560Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.578Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.579Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.579Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:29.591Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.593Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.594Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:29.688Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.691Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.691Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:29.786Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.788Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.788Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.804Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.805Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.805Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:29.816Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.817Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.817Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:29.827Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.828Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.828Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:29.918Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:29.921Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.921Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:29.989Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:29.990Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:29.990Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.023Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.026Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.026Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.035Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.036Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.036Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:30.046Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.047Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.047Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:30.169Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.175Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.175Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:30.257Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.261Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.261Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.285Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.286Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.286Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.298Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.302Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.302Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:30.313Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.314Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.314Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:30.442Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.453Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.453Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:30.526Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.528Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.529Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.557Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.558Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.558Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.571Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.572Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.572Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:30.586Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.587Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.587Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:30.669Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.670Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.671Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:30.729Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.754Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.755Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.768Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.770Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.770Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:30.782Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.783Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.783Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:30.859Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.861Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.861Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:30.940Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:30.941Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.941Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.971Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.972Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.972Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:30.981Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.982Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.982Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:30.991Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:30.993Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:30.993Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:31.078Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.080Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.080Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:31.155Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.156Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.156Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.185Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.186Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.186Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.198Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.199Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.199Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:31.210Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.211Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.211Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:31.311Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.312Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.312Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:31.388Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.401Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.401Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.419Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.421Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.421Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.436Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.440Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.440Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:31.453Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.454Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.454Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:31.549Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.553Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.553Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:31.629Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.631Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.631Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.688Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.699Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.700Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.715Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.716Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.717Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:31.729Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:31.807Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.809Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.809Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:31.913Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:31.920Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.920Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.938Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.940Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.940Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:31.954Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.956Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.956Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:31.965Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:31.966Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:31.966Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:32.064Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.065Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.066Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:32.148Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.150Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.150Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.180Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.181Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.181Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.188Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.189Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.189Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:32.199Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.200Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.200Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:32.279Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.281Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.281Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:32.355Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.359Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.359Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.385Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.387Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.387Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.398Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.399Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.399Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:32.408Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.410Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.410Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:32.483Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.484Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.485Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:32.563Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.564Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.564Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.586Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.588Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.588Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.596Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.597Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.597Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:32.605Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.606Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.606Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:32.688Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.690Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.690Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:32.781Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.784Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.784Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.808Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.809Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.809Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:32.817Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.818Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.818Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:32.827Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.828Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.828Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:32.903Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:32.905Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.905Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:32.991Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:32.993Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:32.993Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.021Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.022Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.022Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.035Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.037Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.037Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:33.047Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.048Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.048Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:33.143Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.144Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.144Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:33.221Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.223Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.223Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.254Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.255Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.255Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.266Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.267Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.267Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:33.276Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.277Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.277Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:33.371Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.392Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.409Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:33.499Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.501Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.501Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.529Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.534Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.534Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.546Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.549Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.549Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:33.561Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.564Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.564Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:33.646Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.650Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.651Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:33.730Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.733Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.733Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.757Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.762Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.762Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.769Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.770Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.770Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:33.780Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.781Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.781Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:33.855Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.856Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.856Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:33.937Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:33.938Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.938Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.969Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.970Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.970Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:33.979Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.981Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.981Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:33.988Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:33.989Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:33.989Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:34.100Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:34.111Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.111Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:34.192Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.194Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.195Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-11T22:32:34.227Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.228Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.228Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-11T22:32:34.241Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.242Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.242Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-11T22:32:34.252Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-11T22:32:34.254Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:34.254Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-11T22:32:34.327Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-11T22:32:34.328Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.328Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-11T22:32:34.405Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.408Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-11T22:32:34.408Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=div.sales-summary in page."}
+{"level":30,"time":"2022-05-11T22:32:34.527Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-11T22:32:34.536Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-11T22:32:34.536Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with css=#sales-results in page."}
+{"level":30,"time":"2022-05-11T22:32:34.549Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Retrieved dom property for element css=#sales-results containing <div id=\"sales-results\"><table class=\"table table-dark table-striped\"><thead><tr><th width=\"24%\" scope=\"col\">Name</th><th width=\"24%\" scope=\"col\">Target</th><th width=\"24%\" scope=\"col\">Result</th><th width=\"24%\" scope=\"col\">Difference</th></tr></thead><tbody><tr><td>Vincenty Stannering</td><td>$30,000</td><td>$109,884</td><td>$79,884</td></tr><tr><td>Petronille Lesor</td><td>$85,000</td><td>$54,805</td><td>$-30,195</td></tr><tr><td>Abra Heap</td><td>$100,000</td><td>$5,937</td><td>$-94,063</td></tr><tr><td>Dorie Batistelli</td><td>$95,000</td><td>$42,450</td><td>$-52,550</td></tr><tr><td>Valenka Tantrum</td><td>$65,000</td><td>$137,708</td><td>$72,708</td></tr><tr><td>Regina Gurling</td><td>$15,000</td><td>$86,186</td><td>$71,186</td></tr><tr><td>Hortensia Leal</td><td>$70,000</td><td>$29,530</td><td>$-40,470</td></tr><tr><td>Jenine Kidby</td><td>$60,000</td><td>$133,576</td><td>$73,576</td></tr><tr><td>Rufus Bewlie</td><td>$85,000</td><td>$119,258</td><td>$34,258</td></tr><tr><td>Gaylord Uebel</td><td>$90,000</td><td>$27,872</td><td>$-62,128</td></tr><tr><td>Jemie Tunnacliffe</td><td>$50,000</td><td>$64,130</td><td>$14,130</td></tr><tr><td>Donia Messenbird</td><td>$75,000</td><td>$52,436</td><td>$-22,564</td></tr><tr><td>Bliss Burgess</td><td>$35,000</td><td>$138,542</td><td>$103,542</td></tr><tr><td>Milena Gudeman</td><td>$45,000</td><td>$24,287</td><td>$-20,713</td></tr><tr><td>Flossie Gurr</td><td>$85,000</td><td>$111,068</td><td>$26,068</td></tr><tr><td>Cathleen Tinklin</td><td>$35,000</td><td>$113,898</td><td>$78,898</td></tr><tr><td>Alikee Kohtler</td><td>$15,000</td><td>$141,102</td><td>$126,102</td></tr><tr><td>Ameline Olivello</td><td>$80,000</td><td>$60,101</td><td>$-19,899</td></tr><tr><td>Claus Bawcock</td><td>$25,000</td><td>$140,602</td><td>$115,602</td></tr><tr><td>Jelene Pridden</td><td>$35,000</td><td>$91,489</td><td>$56,489</td></tr><tr><td>Tiffany Emerine</td><td>$50,000</td><td>$124,313</td><td>$74,313</td></tr><tr><td>Ariadne Kiessel</td><td>$70,000</td><td>$86,637</td><td>$16,637</td></tr><tr><td>Abbe Aldcorn</td><td>$60,000</td><td>$97,489</td><td>$37,489</td></tr><tr><td>Bibi Rosita</td><td>$30,000</td><td>$94,131</td><td>$64,131</td></tr><tr><td>Thurstan Karus</td><td>$50,000</td><td>$131,244</td><td>$81,244</td></tr><tr><td>Madelyn Sire</td><td>$60,000</td><td>$66,825</td><td>$6,825</td></tr><tr><td>Christy Iwaszkiewicz</td><td>$100,000</td><td>$91,465</td><td>$-8,535</td></tr><tr><td>Mahalia Goodee</td><td>$45,000</td><td>$46,997</td><td>$1,997</td></tr><tr><td>Florence Mundow</td><td>$10,000</td><td>$122,953</td><td>$112,953</td></tr><tr><td>Isaac Asimov</td><td>$65,000</td><td>$118,852</td><td>$53,852</td></tr><tr><td>Mickie Linbohm</td><td>$10,000</td><td>$80,516</td><td>$70,516</td></tr><tr><td>Emyle O'Driscole</td><td>$10,000</td><td>$70,981</td><td>$60,981</td></tr><tr><td>Devi Oag</td><td>$10,000</td><td>$140,919</td><td>$130,919</td></tr><tr><td>Myrtle Puddle</td><td>$10,000</td><td>$22,729</td><td>$12,729</td></tr><tr><td>Casar Kubek</td><td>$100,000</td><td>$143,750</td><td>$43,750</td></tr><tr><td>Nathanil Bragg</td><td>$35,000</td><td>$100,336</td><td>$65,336</td></tr><tr><td>Fred Mengoni</td><td>$5,000</td><td>$131,725</td><td>$126,725</td></tr><tr><td>Anabella Blindermann</td><td>$85,000</td><td>$43,564</td><td>$-41,436</td></tr><tr><td>Donnamarie Watts</td><td>$85,000</td><td>$25,924</td><td>$-59,076</td></tr><tr><td>Antoni Degoe</td><td>$75,000</td><td>$106,991</td><td>$31,991</td></tr><tr><td>Belinda Blumenthal</td><td>$70,000</td><td>$115,410</td><td>$45,410</td></tr><tr><td>Lelah Yewdale</td><td>$100,000</td><td>$122,695</td><td>$22,695</td></tr><tr><td>Pearline Fenton</td><td>$35,000</td><td>$78,556</td><td>$43,556</td></tr><tr><td>Ahmed Vasnetsov</td><td>$60,000</td><td>$50,211</td><td>$-9,789</td></tr><tr><td>Ninnette Heinssen</td><td>$25,000</td><td>$63,808</td><td>$38,808</td></tr><tr><td>Yoko Flecknell</td><td>$50,000</td><td>$139,701</td><td>$89,701</td></tr><tr><td>Jocelyn Thomsson</td><td>$95,000</td><td>$99,354</td><td>$4,354</td></tr><tr><td>Dallon Seals</td><td>$15,000</td><td>$61,456</td><td>$46,456</td></tr><tr><td>Conte Mascetti</td><td>$35,000</td><td>$141,182</td><td>$106,182</td></tr><tr><td>David Heazel</td><td>$30,000</td><td>$80,193</td><td>$50,193</td></tr></tbody></table></div>"}
+{"level":30,"time":"2022-05-11T22:32:34.550Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-11T22:32:34.665Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.665Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Strict mode is enabled, find Locator with text=Log out in page."}
+{"level":30,"time":"2022-05-11T22:32:34.697Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method click"}
+{"level":30,"time":"2022-05-11T22:32:34.698Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-11T22:32:34.727Z","pid":51035,"hostname":"Tonys-MacBook-Air.local","msg":"End of node method closeAllBrowsers"}

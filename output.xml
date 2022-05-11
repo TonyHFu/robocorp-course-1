@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0 (Python 3.7.5 on darwin)" generated="20220511 15:24:58.758" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="/Users/tonyfu/.vscode/extensions/robocorp.robotframework-lsp-0.47.2/src/robotframework_ls/vendored/robotframework_interactive/robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Open Available Browser" library="RPA.Browser.Selenium">
+<doc>Attempts to open a browser on the user's device from a set of
+supported browsers. Automatically downloads a corresponding webdriver
+if none is already installed.</doc>
+<status status="PASS" starttime="20220511 15:26:49.312" endtime="20220511 15:27:19.746"/>
+</kw>
+<kw name="Open Available Browser" library="RPA.Browser.Selenium">
+<arg>https://robotsparebinindustries.com/</arg>
+<doc>Attempts to open a browser on the user's device from a set of
+supported browsers. Automatically downloads a corresponding webdriver
+if none is already installed.</doc>
+<status status="PASS" starttime="20220511 15:30:08.117" endtime="20220511 15:30:13.747"/>
+</kw>
+<status status="PASS" starttime="20220511 15:24:58.779" endtime="20220511 16:00:00.643"/>
+</kw>
+<status status="PASS" starttime="20220511 15:24:58.779" endtime="20220511 16:00:00.645"/>
+</test>
+<status status="PASS" starttime="20220511 15:24:58.759" endtime="20220511 16:00:00.648"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
